@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @keerthanarajendran123
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me keerthurb9@gmail.com
 
 <!---
